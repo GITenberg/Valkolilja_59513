@@ -1,5 +1,8 @@
 _repo: Valkolilja_59513
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Beskow, Elisabeth Maria
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44894
     wikipedia: https://sv.wikipedia.org/wiki/Elisabeth_Beskow
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59513#Valkolilja
 gutenberg_issued: '2019-05-15'
 gutenberg_type: Text
 identifiers:
