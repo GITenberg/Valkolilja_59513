@@ -1,0 +1,24 @@
+_repo: Valkolilja_59513
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Beskow, Elisabeth Maria
+    alias: Runa
+    birthdate: 1870
+    deathdate: 1928
+    gutenberg_agent_id: '44894'
+    url: http://www.gutenberg.org/2009/agents/44894
+    wikipedia: https://sv.wikipedia.org/wiki/Elisabeth_Beskow
+description: ''
+gutenberg_issued: '2019-05-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59513'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Valkolilja
+url: http://www.gutenberg.org/ebooks/59513
